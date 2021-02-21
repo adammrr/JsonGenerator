@@ -1,0 +1,6 @@
+{
+  "colour": "{$COLOUR}",
+  "entity": {
+    "shape": "This is a {$COLOUR} {$SHAPE}"
+  }
+}
